@@ -12,7 +12,7 @@
         <module>EffectiveJava2</module>
         <module>EffectiveJava3</module>
         <module>EffectiveMyJava</module>
-        <module>FurkanSonmezCode</module>
+        <module>ExampleCode</module>
     </modules>
 
     <properties>
